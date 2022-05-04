@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Anne-Line, a French developer 👋
+
+🇬🇧 After studying international agro-development ingineering, I swiched to taking care of a numeric collaborative map for three years, giving me the opportunity to reconnect with my early enthusiasm for digital. I then decided to retrain in web development with the O'Clock school (JS/PHP based program), specializing on React.js and its ecosystem.
+Very concerned about code quality, I'm interested in good practices and software carftmanship, to which I want to go deeper in (TDD, clean architecture...).
+
+🇨🇵 Après un parcours de formation ingénieur lié à la gestion de projet à l'international, je me suis finalement retrouvée en charge d'un projet numérique qui m'a permis de renouer avec ma passion précoce du digital. J'ai par la suite réalisé une reconversion professionnelle via une formation intensive à l'école O'Clock pour devenir développeuse web (JS/PHP), spécialisée sur React.js et son écosystème. Très attachée à la qualité du code, je suis particulièrement intéressée par les bonnes pratiques du développement que je souhaite apprendre et approfondir (TDD, clean architecture, etc).
 
 <!--
 **AnneLineC/AnneLineC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
